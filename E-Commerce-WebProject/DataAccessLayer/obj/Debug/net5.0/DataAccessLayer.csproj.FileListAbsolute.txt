@@ -1,0 +1,15 @@
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\elifc\source\repos\E-Commerce-WebProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
